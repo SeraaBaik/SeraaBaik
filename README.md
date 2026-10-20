@@ -1,23 +1,16 @@
 <p align="center">
-  <a href="https://github.com/SeraaBaik?tab=repositories">
-    <img alt="Total Stars" title="Total Stars on GitHub" src="https://img.shields.io/github/stars/SeraaBaik?style=for-the-badge&color=55960c&label=STARS" />
+  <a href="https://github.com/androandro534-hub?tab=repositories">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=$.stars&url=https://api.github-star-counter.workers.dev/user/0-don"/>
   </a>
-  <a href="https://github.com/SeraaBaik?tab=repositories">
-    <img alt="Total Forks" title="Total Forks on GitHub" src="https://img.shields.io/github/forks/SeraaBaik?style=for-the-badge&color=ff0013&label=FORKS" />
+  <a href="https://github.com/androandro534-hub?tab=repositories">
+    <img alt="total stars" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=ff0013&labelColor=ae1206&label=forks&query=$.forks&url=https://api.github-star-counter.workers.dev/user/0-don"/>
   </a>
-  <a href="https://github.com/SeraaBaik?tab=followers">
-    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/SeraaBaik?style=for-the-badge&color=236ad3&label=FOLLOW&logo=github" />
-  </a>
-  <a href="https://github.com/SeraaBaik">
-    <img alt="Profile Views" title="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=SeraaBaik&style=for-the-badge&color=lightgrey&label=PROFILE+VIEWS" />
+  <a href="https://github.com/androandro534-hub?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/0-don?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/androandro534-hub/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=0-don&style=for-the-badge&color=lightgrey"/>
   </a>
 </p>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/SeraaBaik/SeraaBaik/output/github-contribution-grid-snake-dark.svg)
-
-<div align="center">
-  <img src="./c7c6475eaa030b463cd1ec71b823be05.jpg" width="500" alt="Profile Banner">
-</div>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
 
@@ -96,11 +89,7 @@
 ## ⚡ GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=SeraaBaik&hide_border=true&theme=dark" alt="GitHub Streak Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SeraaBaik&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=true&icon_color=fa8b00&theme=dark" alt="GitHub Stats" />
+    <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=0-don&hide_border=true&theme=dark" />
+    <img height="120px" src="https://github-readme-stats.vercel.app/api?username=0-don&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=true&icon_color=fa8b00&theme=dark" />
+    <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-don&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
 </p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeraaBaik&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
-</p>
-```
