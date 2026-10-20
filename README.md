@@ -1,18 +1,19 @@
 <p align="center">
-  <a href="https://github.com/androandro534-hub?tab=repositories">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=$.stars&url=https://api.github-star-counter.workers.dev/user/0-don"/>
+  <a href="https://github.com/SeraaBaik?tab=repositories">
+    <img alt="Total Stars" title="Total Stars on GitHub" src="https://img.shields.io/github/stars/SeraaBaik?style=for-the-badge&color=55960c&label=STARS" />
   </a>
-  <a href="https://github.com/androandro534-hub?tab=repositories">
-    <img alt="total stars" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=ff0013&labelColor=ae1206&label=forks&query=$.forks&url=https://api.github-star-counter.workers.dev/user/0-don"/>
+  <a href="https://github.com/SeraaBaik?tab=repositories">
+    <img alt="Total Forks" title="Total Forks on GitHub" src="https://img.shields.io/github/forks/SeraaBaik?style=for-the-badge&color=ff0013&label=FORKS" />
   </a>
-  <a href="https://github.com/androandro534-hub?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/0-don?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/androandro534-hub/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=0-don&style=for-the-badge&color=lightgrey"/>
+  <a href="https://github.com/SeraaBaik?tab=followers">
+    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/SeraaBaik?style=for-the-badge&color=236ad3&label=FOLLOW&logo=github" />
+  </a>
+  <a href="https://github.com/SeraaBaik">
+    <img alt="Profile Views" title="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=SeraaBaik&style=for-the-badge&color=lightgrey&label=PROFILE+VIEWS" />
   </a>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/SeraaBaik/SeraaBaik/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
   <img src="./c7c6475eaa030b463cd1ec71b823be05.jpg" width="500" alt="Profile Banner">
@@ -24,7 +25,7 @@
 
 ![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
 ![rust](https://img.shields.io/badge/rust-black?style=flat-square&logo=rust)
-![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
+![java](https://img.shields.io/badge/java-black?style=flat-square&logo=openjdk)
 ![kotlin](https://img.shields.io/badge/kotlin-black?style=flat-square&logo=kotlin)
 ![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
 ![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
@@ -34,45 +35,45 @@
 ![spring](https://img.shields.io/badge/spring-black?style=flat-square&logo=spring)
 ![nest](https://img.shields.io/badge/nest-black?style=flat-square&logo=nestjs)
 ![hibernate](https://img.shields.io/badge/hibernate-black?style=flat-square&logo=hibernate)
-![css3](https://img.shields.io/badge/css-black?style=flat-square&logo=css&logoColor=1572B6)
+![css3](https://img.shields.io/badge/css-black?style=flat-square&logo=css3&logoColor=1572B6)
 ![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-black?style=flat-square&logo=tailwindcss)
 ![react](https://img.shields.io/badge/react-black?style=flat-square&logo=react)
-![solid](https://img.shields.io/badge/solid-black?style=flat-square&logo=solid&&logoColor=4D84C4)
+![solid](https://img.shields.io/badge/solid-black?style=flat-square&logo=solid)
 ![next.js](https://img.shields.io/badge/next.js-black?style=flat-square&logo=next.js)
 ![node.js](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)
 ![bun](https://img.shields.io/badge/bun-black?style=flat-square&logo=bun)
 ![tauri](https://img.shields.io/badge/tauri-black?style=flat-square&logo=tauri)
-![prisma](https://img.shields.io/badge/prisma-black?style=flat-square&logo=prisma&logoColor=2D3748)
-![graphql](https://img.shields.io/badge/graphql-black?style=flat-square&logo=graphql&logoColor=E10098)
-![apollo](https://img.shields.io/badge/apollo-black?style=flat-square&logo=apollo-graphql)
-![discord](https://img.shields.io/badge/discord.js-black?style=flat-square&logo=discord)
+![prisma](https://img.shields.io/badge/prisma-black?style=flat-square&logo=prisma)
+![graphql](https://img.shields.io/badge/graphql-black?style=flat-square&logo=graphql)
+![apollo](https://img.shields.io/badge/apollo-black?style=flat-square&logo=apollographql)
+![discord.js](https://img.shields.io/badge/discord.js-black?style=flat-square&logo=discord)
 ![electron](https://img.shields.io/badge/electron-black?style=flat-square&logo=electron)
-![javafx](https://custom-icon-badges.herokuapp.com/badge/javafx-black.svg?logo=java&logoColor=white&style=flat-square)
+![javafx](https://img.shields.io/badge/javafx-black?style=flat-square&logo=openjdk)
 ![react-native](https://img.shields.io/badge/react_native-black?style=flat-square&logo=react)
 ![expo](https://img.shields.io/badge/expo-black?style=flat-square&logo=expo)
-![angular](https://img.shields.io/badge/angular-black?style=flat-square&logo=angular&logoColor=DD0031)
-![socketio](https://custom-icon-badges.herokuapp.com/badge/socketio-black.svg?logo=socketio&logoColor=white&style=flat-square)
+![angular](https://img.shields.io/badge/angular-black?style=flat-square&logo=angular)
+![socket.io](https://img.shields.io/badge/socket.io-black?style=flat-square&logo=socketdotio)
 ![express](https://img.shields.io/badge/express-black?style=flat-square&logo=express)
 ![puppeteer](https://img.shields.io/badge/puppeteer-black?style=flat-square&logo=puppeteer)
 ![cypress](https://img.shields.io/badge/cypress-black?style=flat-square&logo=cypress)
 ![selenium](https://img.shields.io/badge/selenium-black?style=flat-square&logo=selenium)
-![playwright](https://custom-icon-badges.herokuapp.com/badge/playwright-black.svg?logo=playwright&logoColor=white&style=flat-square)
+![playwright](https://img.shields.io/badge/playwright-black?style=flat-square&logo=playwright)
 ![bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap)
 
 ### DevOps & Tools
 
-![vscode](https://custom-icon-badges.herokuapp.com/badge/vscode-black.svg?logo=visual-studio-code&logoColor=007ACC&style=flat-square)
-![intellij](https://img.shields.io/badge/intellij-black?style=flat-square&logo=intellij-idea)
-![datagrip](https://img.shields.io/badge/datagrip-black?style=flat-square&logo=datagrip&logoColor=28D28D)
-![outlook](https://custom-icon-badges.herokuapp.com/badge/outlook-black.svg?logo=outlook&logoColor=blue&style=flat-square)
+![vscode](https://img.shields.io/badge/VS_Code-black?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![intellij](https://img.shields.io/badge/intellij-black?style=flat-square&logo=intellijidea)
+![datagrip](https://img.shields.io/badge/datagrip-black?style=flat-square&logo=datagrip)
+![outlook](https://img.shields.io/badge/outlook-black?style=flat-square&logo=microsoftoutlook)
 ![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)
-![windows](https://custom-icon-badges.herokuapp.com/badge/windows-black.svg?logo=windows&logoColor=0078D6&style=flat-square)
+![windows](https://img.shields.io/badge/windows-black?style=flat-square&logo=windows&logoColor=0078D6)
 ![linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=linux)
 ![github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)
 ![gitlab](https://img.shields.io/badge/gitlab-black?style=flat-square&logo=gitlab)
 ![circleci](https://img.shields.io/badge/circleci-black?style=flat-square&logo=circleci)
-![github actions](https://img.shields.io/badge/github_actions-black?style=flat-square&logo=github-actions)
+![github actions](https://img.shields.io/badge/github_actions-black?style=flat-square&logo=githubactions)
 ![docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker)
 ![postgresql](https://img.shields.io/badge/postgresql-black?style=flat-square&logo=postgresql)
 ![redis](https://img.shields.io/badge/redis-black?style=flat-square&logo=redis)
@@ -82,14 +83,18 @@
 ![android](https://img.shields.io/badge/android-black?style=flat-square&logo=android)
 ![gitkraken](https://img.shields.io/badge/gitkraken-black?style=flat-square&logo=gitkraken)
 ![postman](https://img.shields.io/badge/postman-black?style=flat-square&logo=postman)
-![bitwarden](https://img.shields.io/badge/bitwarden-black?style=flat-square&logo=bitwarden&logoColor=175DDC)
+![bitwarden](https://img.shields.io/badge/bitwarden-black?style=flat-square&logo=bitwarden)
 ![wordpress](https://img.shields.io/badge/wordpress-black?style=flat-square&logo=wordpress)
 ![joomla](https://img.shields.io/badge/joomla-black?style=flat-square&logo=joomla)
 
 ## ⚡ GitHub Stats
 
 <p align="center">
-    <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=0-don&hide_border=true&theme=dark" />
-    <img height="120px" src="https://github-readme-stats.vercel.app/api?username=0-don&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=true&icon_color=fa8b00&theme=dark" />
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-don&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=SeraaBaik&hide_border=true&theme=dark" alt="GitHub Streak Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SeraaBaik&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=true&icon_color=fa8b00&theme=dark" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeraaBaik&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" alt="Top Languages" />
+</p>
+```
